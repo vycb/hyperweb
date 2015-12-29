@@ -1,0 +1,12 @@
+[package]
+name = "hyperweb"
+version = "0.0.1"
+authors = ["vycb <vycb777@gmail.com>"]
+
+[dependencies]
+hyper="*"
+formdata="*"
+handlebars="*"
+mime = "*"
+tojson_macros = "*"
+rustc-serialize = "*"
